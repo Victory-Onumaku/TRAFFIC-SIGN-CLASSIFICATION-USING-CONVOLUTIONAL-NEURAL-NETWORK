@@ -6,13 +6,22 @@ After this project, one can be able to build multiclass classification model usi
 
 # STEPS TAKEN TO SOLVE THE PROBLEMS <br>
 1) Finding data on kaggle and loading it into google colab <br>
+
 2) Preprocessing the image and visualizing them <br>
+
 3) Finding out the mean of the dimension and resizing all images accordingly <br>
+
 4) Converting the images into a numpy array and normalize them <br>
+
 5) Checking class imbalance <br>
+
 6) Splitting the data and performing one hot encoding <br>
+
 7) Creating the model architecture, compliling the model and then fitting it <br>
+
 8) Plotting the accuracy and loss against each Epoch <br>
+
 9) Preprocessing the test data and make predictions on it <br>
+
 10) Visualize the original and predicted labels for the test images.
 
